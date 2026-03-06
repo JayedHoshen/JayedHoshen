@@ -13,7 +13,7 @@
 - 🔭 Fullstack Web Developer  
 - ⚡ Competitive Programmer  
 - 🎓 BSc in CSE, DUET (running)  
-- 🌱 Currently learning React, Node.js, MongoDB  
+- 🌱 Currently learning React, Node.js, MongoDB  (MERN)
 - 💬 Ask me about HTML, CSS, JavaScript, C, C++, DSA 
 - 📫 Email: jayedhoshen@gmail.com  
 
@@ -26,27 +26,23 @@
 <!-- Connect With Me -->
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://facebook.com/JayedHoshen"><img src="https://skillicons.dev/icons?i=facebook" /></a>
   <a href="https://linkedin.com/in/JayedHoshen"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://instagram.com/JayedHoshen"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://github.com/JayedHoshen"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats 
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JayedHoshen&show_icons=true&theme=tokyonight" />
 </p>
 
-<!--
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayedHoshen&theme=tokyonight" />
 </p>
--->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayedHoshen&layout=compact&theme=tokyonight" />
-</p>
+</p> -->
 
 <!-- GitHub Trophies 
 ## 🏆 GitHub Trophies
