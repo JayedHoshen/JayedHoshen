@@ -13,9 +13,8 @@
 - 🔭 Fullstack Web Developer  
 - ⚡ Competitive Programmer  
 - 🎓 BSc in CSE, DUET (running)  
-- 🌱 Currently learning React, Node.js, MongoDB  (MERN)
+- 🌱 Currently learning React, Node.js, Express, MongoDB  (MERN)
 - 💬 Ask me about HTML, CSS, JavaScript, C, C++, DSA 
-- 📫 Email: jayedhoshen@gmail.com  
 
 <!-- Skills & Tools -->
 ## 🚀 Skills & Tools
