@@ -44,6 +44,10 @@ Hi, I’m Jayed Hoshen, a Computer Science and Engineering (CSE) student at Dhak
 
  <!-- Github contibution and stats -->
 ## ⚡ Contribution & Streak
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayedhoshen&" alt="jayedhoshen" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayedhoshen&" alt="jayedhoshen" /></p> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JayedHoshen&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=JayedHoshen&theme=tokyonight" />
+</p>
 
 ⭐ **If you like my projects/repositories, don’t forget to star them!**
